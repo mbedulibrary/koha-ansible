@@ -7,7 +7,7 @@
   <li>Update Install – sudo yum update</li>
   <li>Install Ansible and MySQL Python - sudo yum –y install ansible MySQL-python git cpanminus</li>
   <li>Clone or Download ansible playbook</li>
-  <li>Go to Download Location of ansible playbook</li>
+  <li>Go to Download Location of ansible playbook (~/koha-ansible/mbed-koha)</li>
   <li>Run Ansible - sudo ansible-playbook koha.yml –u root –i inventory.ini –-connection local</li>
   <li>Secure MySQL Database - sudo mysql_secure_installation</li>
 </ol>
