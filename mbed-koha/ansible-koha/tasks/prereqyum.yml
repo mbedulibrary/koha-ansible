@@ -6,6 +6,7 @@
      - ImageMagick 
      - mariadb-server 
      - mariadb 
+     - perl*
      - libxslt-devel 
      - tcp_wrappers-devel 
      - php-mysql 
