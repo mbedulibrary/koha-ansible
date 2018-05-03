@@ -4,7 +4,6 @@
      name: "{{ item }}"
     with_items:
      - ImageMagick 
-     - perl* 
      - mariadb-server 
      - mariadb 
      - libxslt-devel 
