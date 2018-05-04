@@ -11,7 +11,7 @@
   <li>Run Ansible - sudo ansible-playbook koha.yml –u root –i inventory.ini –-connection local</li>
   <li>Secure MySQL Database - sudo mysql_secure_installation
   <ol>
-    <li>Use Localhost</li>
+    <li>Use localhost</li>
     <li>Use koha default admin</li>
     <li>Create database password</li>
   </ol>
