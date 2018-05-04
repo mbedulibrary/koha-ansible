@@ -16,4 +16,5 @@
     <li>Create database password</li>
   </ol>
   </li>
+  <li>Find IP address of server and begin web installation</li>
 </ol>
